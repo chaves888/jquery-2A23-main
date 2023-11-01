@@ -1,38 +1,29 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    border: none;
 }
-body{
+
+body {
     background-color: #add2b5;
 }
 
-form{
+form {
     width: 500px;
     margin: 0 auto;
     margin-top: 50px;
-    
 }
+
 input,
-textarea, button{
+textarea,
+button {
     width: 100%;
     margin: 5px 0;
     font-size: 22px;
 }
 
-input, button{
+input,
+button {
     height: 40px;
-    
-
-}
-button{
-    color: #ffffff;
-    background-color: #036052;
-
-}
-
-a{
-   margin: 47%;
-   padding-top: 10px;
+    padding: 0;
 }
